@@ -19,10 +19,10 @@ Through my background in computer science, I have developed a deep passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Reverse-engineer malware → YARA/Sigma rule         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>|
-| From-scratch security tool | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Detection Lab</a>|
-| SOAR automation playbook         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Microsoft Sentinel SOC Lab         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>|
+| Defender XDR Threat Hunting Lab | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Detection Lab</a>|
+| Active Directory Attack Detection Lab         | SOC Automation Lab|
+| SOAR automation playbook     | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -31,12 +31,14 @@ Through my background in computer science, I have developed a deep passion for c
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=ogoColor=white " />
     
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E81123?style=dge&logo=crowdstrike&logoColor=white" />
     
 </div>
 
@@ -45,6 +47,31 @@ Through my background in computer science, I have developed a deep passion for c
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     
+</div>
+
+
+### Threat Intelligence Tools
+<div>
+<img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal=white"/>
+<img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor="/>
+    
+</div>
+
+
+### Threat Hunting Tools
+
+
+<div>
+<img src="https://img.shields.io/badge/-Microsoft_Defender_XDR-00A4EF?style=for-the-badgeosoft&logoColor=white"/>
+    
+</div>
+
+### Web Application Security Tools
+
+<div>
+
+<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&white"/>
+
 </div>
 
 ## Certifications
