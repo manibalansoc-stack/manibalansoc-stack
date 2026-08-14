@@ -13,6 +13,9 @@ Through my background in computer science, I have developed a deep passion for c
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 
 </div>
 ## Skills
