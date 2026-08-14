@@ -11,7 +11,7 @@ Through my background in computer science, I have developed a deep passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -46,5 +46,5 @@ Through my background in computer science, I have developed a deep passion for c
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
