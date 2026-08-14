@@ -11,9 +11,9 @@ Through my background in computer science, I have developed a deep passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Reverse-engineer malware → YARA/Sigma rule         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>|
+| From-scratch security tool | <a href="https://google.com">Detection Lab</a>|
+| SOAR automation playbook         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
