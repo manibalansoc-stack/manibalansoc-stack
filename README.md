@@ -18,6 +18,7 @@ Through my background in computer science, I have developed a deep passion for c
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 
 </div>
+
 ## Skills
 
 | Skill                                         | Associated Project         |
