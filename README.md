@@ -7,6 +7,14 @@ Security Operations professional with experience in Global Security Operations C
 
 Through my background in computer science, I have developed a deep passion for cybersecurity and am eager to apply my skills in a Security Operations Center (SOC) as a Tier 1 Analyst, contributing to threat detection and incident response efforts.
 
+## I Code
+<div>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+
+</div>
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -43,12 +51,26 @@ Through my background in computer science, I have developed a deep passion for c
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-</div>
+<img src="https://img.shields.io/badge/CSICI-IIT%20Madras%20(2025)-0078D4?style=for-the-badge&logo=academor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft%20Security%20Essentials-Professional%20Certificate%20|%20Microsoft%20%26%20LinkedIn%20(2025)-00A4EF?style=for-the-badge&logo=microsoft=white"/>
+
+<img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Career%20Path%20|%20Cisco%20(2025)-1BA0D7?style=for-the-badge&logo=cisco&" />
+
+<img src="https://img.shields.io/badge/Cyber%20Threat%20Management-Cisco%20(2025)-1BA0D7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Endpoint%20Security-Cisco%20(2025)-1BA0D7?style=for-the-badge&logo=cisco&"/>
+
+<img src="https://img.shields.io/badge/Network%20Defense-Cisco%20(2025)-1BA0D7?style=for-the-badge&logo=cisco&"/>
+
+<img src="https://img.shields.io/badge/Career%20Essentials%20in%20Cybersecurity-Microsoft%20%26%20LinkedIn%20(2025)-00A4EF?style=for-the-badge&logo=microsoft&"/>
+
+<img src="https://img.shields.io/badge/Networking%20Devices%20and%20Initial%20Configuration-Cisco%20(2025)-1BA0D7?style=for-the-badge&logo=cisco&"/>
 
 ## Projects
 - <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/manibalansoc-stack?theme=dark&font=Marcellus&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manibalansoc?theme=dark&font=Marcellus&ext=contest)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manibalansoc-stack&bg_color=000000&color=ffffff&line=23f906&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
