@@ -1,4 +1,5 @@
-# Hello, I'm MANIBALN
+# Hello, I'm Manibalan Balakrishnan
+
 <a href="https://linkedin.com/in/mani-balan-308343258/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Security Operations professional with experience in Global Security Operations Center (GSOC), threat intelligence, incident response, risk management, and security monitoring. Experienced in monitoring global sites and systems, validating security alerts, coordinating incident escalations, and producing intelligence reports for business stakeholders. Currently pursuing an M.Sc. in Cyber Forensics & Information Security and actively developing expertise in SOC operations, SIEM, Microsoft Sentinel, KQL, threat hunting, and cybersecurity investigations.
