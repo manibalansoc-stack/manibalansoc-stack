@@ -7,31 +7,84 @@ Security Operations professional with experience in Global Security Operations C
 
 Through my background in computer science, I have developed a deep passion for cybersecurity and am eager to apply my skills in a Security Operations Center (SOC) as a Tier 1 Analyst, contributing to threat detection and incident response efforts.
 
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Microsoft Sentinel         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a>|
+| Microsoft Defender XDR | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Enterprise SOC Detection & Threat Hunting Lab</a>|
+| Splunk         | Enterprise SOC Detection & Threat Hunting Lab |
+| QRadar     | Enterprise SOC Detection & Threat Hunting Lab |
+| KQL (Advanced)                 | Enterprise SOC Detection & Threat Hunting Lab |
+| Threat Hunting | Enterprise SOC Detection & Threat Hunting Lab |
+| MITRE ATT&CK | Enterprise SOC Detection & Threat Hunting Lab |
+| Incident Response | Enterprise SOC Detection & Threat Hunting Lab |
+| Active Directory | Active Directory Attack Detection Lab |
+| Windows Security | Active Directory Attack Detection Lab |
+| Defender for Endpoint | Active Directory Attack Detection Lab |
+| Privilege Escalation Detection | Active Directory Attack Detection Lab |
+| Lateral Movement Detection | Active Directory Attack Detection Lab |
+| PowerShell | SOC Automation & Incident Response Lab|
+| SOAR Automation | SOC Automation & Incident Response Lab |
+| Logic Apps | SOC Automation & Incident Response Lab |
+| Incident Response | SOC Automation & Incident Response Lab |
+| Automated Alert Enrichment | SOC Automation & Incident Response Lab |
+| Automated Case Creation |  SOC Automation & Incident Response Lab |
+
+## OS
+
+<div>
+    
+<img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/mac-os--v1.png" alt="mac-os--v1"/>
+
+</div>
+
+## Command
+
+<div>
+    
+<img width="48" height="48" src="https://img.icons8.com/color/48/command-line.png" alt="command-line"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/powershell.png" alt="powershell"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/>
+
+
+</div>
+
 ## I Code
 <div>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/>
+
+
+
+
 
 
 </div>
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Microsoft Sentinel SOC Lab         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>|
-| Defender XDR Threat Hunting Lab | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Detection Lab</a>|
-| Active Directory Attack Detection Lab         | SOC Automation Lab|
-| SOAR automation playbook     | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
+
+### SIEM
+<div>
+    
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-QRadar-052FAD?style=for-theo=ibm&logoColor=white" />
+
+</div>
+
+### EDR/XDR:
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E81123?style=dge&logo=crowdstrike&logoColor=white" />
+    
+</div>
 
 ### Network
 <div>
@@ -40,25 +93,16 @@ Through my background in computer science, I have developed a deep passion for c
     
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E81123?style=dge&logo=crowdstrike&logoColor=white" />
-    
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    
-</div>
 
 
 ### Threat Intelligence Tools
+
 <div>
+    
 <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal=white"/>
 <img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor="/>
+
     
 </div>
 
