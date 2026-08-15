@@ -15,8 +15,7 @@ Through my background in computer science, I have developed a deep passion for c
 |-----------------------------------------------|----------------------------|
 | Microsoft Sentinel         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a>|
 | Microsoft Defender XDR |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab</a>|
-| Splunk         |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
-| QRadar     |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
+| Splunk         |<a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
 | KQL (Advanced)                 |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
 | Threat Hunting |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
 | MITRE ATT&CK |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
