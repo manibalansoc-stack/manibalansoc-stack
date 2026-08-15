@@ -147,6 +147,4 @@ Through my background in computer science, I have developed a deep passion for c
 - <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/manibalansoc?theme=dark&font=Marcellus&ext=contest)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manibalansoc-stack&bg_color=000000&color=ffffff&line=23f906&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
