@@ -56,7 +56,9 @@ Through my background in computer science, I have developed a deep passion for c
 ## I Code
 <div>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/>
