@@ -13,18 +13,18 @@ Through my background in computer science, I have developed a deep passion for c
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Microsoft Sentinel         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a>|
-| Microsoft Defender XDR | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Enterprise SOC Detection & Threat Hunting Lab</a>|
-| Splunk         | Enterprise SOC Detection & Threat Hunting Lab |
-| QRadar     | Enterprise SOC Detection & Threat Hunting Lab |
-| KQL (Advanced)                 | Enterprise SOC Detection & Threat Hunting Lab |
-| Threat Hunting | Enterprise SOC Detection & Threat Hunting Lab |
-| MITRE ATT&CK | Enterprise SOC Detection & Threat Hunting Lab |
-| Incident Response | Enterprise SOC Detection & Threat Hunting Lab |
-| Active Directory | Active Directory Attack Detection Lab |
-| Windows Security | Active Directory Attack Detection Lab |
-| Defender for Endpoint | Active Directory Attack Detection Lab |
-| Privilege Escalation Detection | Active Directory Attack Detection Lab |
-| Lateral Movement Detection | Active Directory Attack Detection Lab |
+| Microsoft Defender XDR |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab</a>|
+| Splunk         |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
+| QRadar     |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
+| KQL (Advanced)                 |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
+| Threat Hunting |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
+| MITRE ATT&CK |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
+| Incident Response | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab |
+| Active Directory | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
+| Windows Security | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
+| Defender for Endpoint | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
+| Privilege Escalation Detection | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
+| Lateral Movement Detection | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Active Directory Attack Detection Lab |
 | PowerShell | SOC Automation & Incident Response Lab|
 | SOAR Automation | SOC Automation & Incident Response Lab |
 | Logic Apps | SOC Automation & Incident Response Lab |
