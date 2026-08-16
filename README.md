@@ -13,25 +13,17 @@ Through my background in computer science, I have developed a deep passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Microsoft Sentinel         | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a>|
-| Microsoft Defender XDR |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab</a>|
-| Splunk         |<a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Splunk Security Monitoring Lab |
-| QRadar  | QRadar Security Monitoring Lab |
-| KQL (Advanced)                 |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
-| Threat Hunting |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
-| MITRE ATT&CK |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
-| Incident Response | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab |
-| Active Directory | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
-| Windows Security | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
-| Defender for Endpoint | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
-| Privilege Escalation Detection | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
-| Lateral Movement Detection | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
-| PowerShell | SOC Automation & Incident Response Lab|
-| SOAR Automation | SOC Automation & Incident Response Lab |
-| Logic Apps | SOC Automation & Incident Response Lab |
-| Incident Response | SOC Automation & Incident Response Lab |
-| Automated Alert Enrichment | SOC Automation & Incident Response Lab |
-| Automated Case Creation |  SOC Automation & Incident Response Lab |
+| SIEM & Log Management        | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Home Lab Active Directory & SIEM Monitoring</a>|
+| EDR / XDR  |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Home Lab Active Directory & SIEM Monitoring</a>|
+| Incident Response & Triage         |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Home Lab Active Directory & SIEM Monitoring</a> |
+| Packet & Network Traffic Analysis  | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Home Lab Active Directory & SIEM Monitoring</a> |
+| hreat Intelligence & Frameworks (Advanced)                 |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Home Lab Active Directory & SIEM Monitoring</a> |
+| Threat Hunting |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Home Lab Active Directory & SIEM Monitoring</a> |
+| Phishing & Email Analysis |<a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Automated Phishing Investigation Playbook (SOAR)|
+| Operating System Security (Windows & Linux) | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Automated Phishing Investigation Playbook (SOAR) |
+| Vulnerability Management | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Automated Phishing Investigation Playbook (SOAR) |
+| Scripting & Automation | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Incident Response & Packet Analysis Case Study |
+| Clear Documentation & Ticketing | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Cloud Security Monitoring (AWS or Azure) |
 
 ## System Administration & Troubleshooting
 
