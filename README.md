@@ -21,11 +21,11 @@ Through my background in computer science, I have developed a deep passion for c
 | Threat Hunting |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
 | MITRE ATT&CK |<a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main"> Enterprise SOC Detection & Threat Hunting Lab |
 | Incident Response | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab |
-| Active Directory | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
-| Windows Security | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
-| Defender for Endpoint | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
-| Privilege Escalation Detection | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool">Active Directory Attack Detection Lab |
-| Lateral Movement Detection | <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Active Directory Attack Detection Lab |
+| Active Directory | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
+| Windows Security | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
+| Defender for Endpoint | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
+| Privilege Escalation Detection | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
+| Lateral Movement Detection | <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Enterprise SOC Detection & Threat Hunting Lab</a> |
 | PowerShell | SOC Automation & Incident Response Lab|
 | SOAR Automation | SOC Automation & Incident Response Lab |
 | Logic Apps | SOC Automation & Incident Response Lab |
