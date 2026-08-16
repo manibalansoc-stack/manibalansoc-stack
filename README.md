@@ -32,7 +32,7 @@ Through my background in computer science, I have developed a deep passion for c
 | Automated Alert Enrichment | SOC Automation & Incident Response Lab |
 | Automated Case Creation |  SOC Automation & Incident Response Lab |
 
-## OS
+## System Administration & Technical Troubleshooting Specialist
 
 <div>
     
