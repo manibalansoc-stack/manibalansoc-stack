@@ -117,7 +117,6 @@ Through my background in computer science, I have developed a deep passion for c
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 <img src="https://img.shields.io/badge/CSICI-IIT%20Madras%20(2025)-0078D4?style=for-the-badge&logo=academor=white" />
 
@@ -139,5 +138,5 @@ Through my background in computer science, I have developed a deep passion for c
 - <a href="https://github.com/manibalansoc-stack/Detection-Lab/tree/main">Home Lab Active Directory & SIEM Monitoring</a>
 - <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Automated Phishing Investigation Playbook (SOAR)
 - <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Incident Response & Packet Analysis Case Study
-- <a href="https://github.com/manibalansoc-stack/From-scratch-security-tool"> Cloud Security Monitoring (AWS or Azure)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manibalansoc-stack&bg_color=000000&color=ffffff&line=23f906&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
